@@ -62,7 +62,9 @@ Kotlincrashcourse/
 ## Libraries Used
 - Jetpack Compose
 - Hilt
+- Hilt Navigation
 - Kotlin Coroutines
+- Retrofit
 
 ## License
 This project is licensed under the MIT License.
